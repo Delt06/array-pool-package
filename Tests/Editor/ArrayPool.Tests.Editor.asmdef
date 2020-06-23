@@ -1,0 +1,19 @@
+{
+    "name": "ArrayPool.Tests.Editor",
+    "references": [
+        "GUID:9feb83cb9b0c6424a95ab7c5b675a19e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
